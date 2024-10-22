@@ -21,6 +21,9 @@ Make sure to install modules before trying to run.
 
 ## Usage
 Run the program and simply follow the prompts.
+See below for a video on how to use.
+
+https://app.screencastify.com/v3/watch/ezXNfIHfeQXVxIp0GEKm
 
 ## Contributing
 More specific employee and or job information.
